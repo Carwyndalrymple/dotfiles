@@ -1,0 +1,31 @@
+[options]
+font = Hack 12
+browser = google-chrome-stable
+clickable_url = false
+dynamic_title = true
+geometry = 1000x600
+scrollback_lines = 999999
+scroll_on_keystroke = true
+scroll_on_output = false
+urgent_on_bell = true
+
+[colors]
+background = rgba(38, 50, 56, 0.85)
+#background = #263238
+foreground = #eeffff
+color0  = #263238
+color8  = #546e7a
+color1  = #f04600
+color9  = #ff763e
+color2  = #42d242
+color10 = #8efa83
+color3  = #fad430
+color11 = #ffeb95
+color4  = #4882ff
+color12 = #83aaff
+color5  = #b916d7
+color13 = #da64ef
+color6  = #3dd7ff
+color14 = #8ae7ff
+color7  = #d6d6d6
+color15 = #eeffff
